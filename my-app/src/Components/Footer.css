@@ -1,0 +1,14 @@
+.card-body{
+    background-color: #ffffff;
+    border-left: 0.1rem #d50000 solid;
+    border-top: 0.1rem #d50000 solid;
+    border-right: 0.1rem #d50000 solid;
+
+}
+
+.FooterMainText{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+
